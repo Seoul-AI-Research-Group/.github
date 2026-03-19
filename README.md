@@ -24,3 +24,5 @@ Seoul AI Research Group is a non-profit organization dedicated to artificial int
 
 ## Contact
 seoulairesearchgroup@gmail.com
+
+Ongoing collaborative AI research and study activities.
