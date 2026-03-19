@@ -1,20 +1,26 @@
-# AI Study Notes
+# Seoul AI Research Group
 
-This repository contains study materials, notes, and experiments from the Seoul AI Research Group.
+Seoul AI Research Group is a non-profit organization dedicated to artificial intelligence research, education, and open-source collaboration.
 
-## Purpose
-- Document AI research and learning progress
-- Share knowledge within the community
-- Support collaborative study and open learning
+## Mission
+- Advance AI research and knowledge sharing
+- Support collaborative learning and development
+- Build open-source AI tools and projects
 
-## Topics
-- Machine Learning fundamentals
-- Deep Learning concepts
-- AI tools and frameworks
-- Experiment logs and findings
+## Activities
+- AI study sessions and research discussions
+- Open-source project development
+- Knowledge sharing and educational initiatives
 
-## About Us
-Seoul AI Research Group is a non-profit organization focused on artificial intelligence research, education, and open-source collaboration.
+## Projects
+- AI Automation Bot
+- AI Research Initiatives
+- Study Notes and Experiments
 
-## Note
-All materials are for educational and research purposes only, with no profit distribution.
+## Principles
+- Non-profit organization
+- No distribution of profits
+- All activities are for research and educational purposes
+
+## Contact
+seoulairesearchgroup@gmail.com
